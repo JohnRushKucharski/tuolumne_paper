@@ -1,4 +1,5 @@
 # tuolumne_paper
+![image](https://user-images.githubusercontent.com/26230348/230677185-8b487121-a0d9-420a-acd3-b2b4c97cecd8.png)
 
 This repository contains data a single notebook with the code required to reproduce the results in: 
 
